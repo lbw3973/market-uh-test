@@ -29,6 +29,7 @@
     "last 2 versions"
   ],
   "dependencies": {
+    "chart.js": "4.2",
     "dotenv": "^16.0.3"
   }
 }
