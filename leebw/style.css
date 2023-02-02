@@ -1,3 +1,10 @@
 body {
-  color: red;
+  background-color: skyblue;
+  width: 1440px;
+}
+label {
+  display: block;
+}
+.createAccount {
+  display: none;
 }
